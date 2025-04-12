@@ -115,5 +115,23 @@
       "project": [],
       "module": []
     }
+  },
+  "v2": {
+    "packages": {
+      "@yhl125/custom-plugin-mcp": {
+        "name": "@yhl125/custom-plugin-mcp",
+        "description": "ElizaOS plugin to integrate with MCP (Model Context Protocol) servers",
+        "type": "plugin",
+        "versions": {
+          "0.0.4": {
+            "version": "0.0.4",
+            "runtimeVersion": "1.0.0-beta.28",
+            "platform": "universal",
+            "publishedAt": "2025-04-12T17:13:40.554Z",
+            "published": true
+          }
+        }
+      }
+    }
   }
 }
