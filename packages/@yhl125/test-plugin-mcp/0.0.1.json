@@ -1,0 +1,23 @@
+{
+  "name": "@yhl125/test-plugin-mcp",
+  "version": "0.0.1",
+  "description": "ElizaOS plugin to integrate with MCP (Model Context Protocol) servers",
+  "type": "plugin",
+  "platform": "universal",
+  "runtimeVersion": "1.0.0-beta.28",
+  "repository": "git+https://github.com/fleek-platform/eliza-plugin-mcp.git",
+  "maintainers": [
+    "yhl125"
+  ],
+  "publishedAt": "2025-04-12T17:21:15.789Z",
+  "publishedBy": "yhl125",
+  "dependencies": {
+    "@elizaos/core": "1.0.0-beta.28",
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "ajv": "^8.17.1",
+    "json5": "^2.2.3"
+  },
+  "tags": [],
+  "license": "MIT",
+  "npmPackage": "@yhl125/test-plugin-mcp"
+}
